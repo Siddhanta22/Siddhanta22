@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:siddhantamohanty22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/siddhanta-mohanty-13aa92222"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://github.com/siddhantamohanty22"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
 </p>
 
 ---
