@@ -57,15 +57,6 @@ Contributing to the **Perception Team**: developing **object detection, road mar
 
 ---
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhantamohanty22&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantamohanty22&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🧭 Connect With Me
 
 📍 *State College, PA*  
