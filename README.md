@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<h1 align="center">👋 Hi, I'm Siddhanta Mohanty</h1>
+<h1 align="center">👋 Hey there, I'm Siddhanta Mohanty</h1>
 <h3 align="center">🚀 AI • Backend • Autonomous Systems | Senior @ Penn State University</h3>
 
 <p align="center">
@@ -9,54 +9,52 @@
 
 ---
 
-### 🎓 About Me  
-🎓 **Senior at Penn State University**  
-🧠 **B.S. Computer Science**, Minor in **Mathematics**  
-💡 I love building intelligent, backend-powered systems that combine **AI, automation, and data** to solve real-world problems.  
-🌍 Currently exploring **agentic RAG**, **autonomous perception**, and **self-healing AI infrastructure**.
+### 🌟 About Me  
+🎓 **Senior at Penn State University** — *B.S. in Computer Science, Minor in Mathematics*  
+💡 Passionate about **AI-driven backend systems**, **autonomous perception**, and **agentic intelligence**.  
+⚙️ I love transforming complex problems into scalable, intelligent architectures — from **self-healing systems** to **vision-based robotics**.  
+🚀 Currently exploring **LLM autonomy**, **multi-agent workflows**, and **AI for perception systems**.
 
 ---
 
-### 💡 Projects I'm Building
+### 🧩 Featured Projects  
 
 #### 🧠 Self-Healing System  
-A backend powered by **GPT-4o**, **LangChain**, and **FAISS** that diagnoses and explains real-time system errors, with a chatbot interface and agent-based recovery flow.
+An AI-driven backend powered by **GPT-4o**, **LangChain**, and **FAISS**, capable of diagnosing real-time system errors, explaining causes, and suggesting recovery steps — with a live chatbot interface and Slack alerts.
+
+#### ⚙️ Model Context Protocol (MCP)  
+Built an **agentic protocol** that allows LLMs to execute **multi-step API workflows** autonomously — bridging backend orchestration with contextual reasoning for enterprise-scale automation.
 
 #### 📸 Photobot  
-A **RAG-based DSLR assistant** that parses camera manuals to suggest perfect settings for various lighting and event conditions.
+A **RAG-based DSLR assistant** that parses camera manuals to recommend the perfect ISO, aperture, and shutter speed for any lighting scenario — bringing AI assistance to photography.
 
-#### ⚙️ Model Context Protocol (MCP) System  
-Designed a protocol that enables **LLMs to autonomously execute multi-step workflows** across APIs, databases, and files—bringing real autonomy to AI agents.
-
-#### 🚗 Advanced Vehicle Team (AVT) @ Penn State  
-Contributing to the **Perception Team**: developing **object detection, road marking recognition, and localization algorithms** using **Python, C++, OpenCV, ROS**, and **PCL**.
+#### 🚗 Autonomous Vehicle Team (AVT)  
+Member of Penn State’s **AVT Perception Team**, developing **object detection, road marking, and LiDAR-camera fusion pipelines** using **Python, C++, OpenCV, ROS2, and PCL**.
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack  
 
 | Category | Tools |
 |-----------|--------|
 | **Languages** | Python • C++ • JavaScript |
-| **Web** | HTML • CSS • React • Node.js • Tailwind |
-| **AI & Data** | LangChain • FAISS • PostgreSQL • MySQL • MongoDB • Pandas • NumPy |
-| **Frameworks** | OpenCV • ROS • PCL • scikit-learn |
-| **Tools** | Git • GitHub • Docker • VS Code |
+| **Web** | React • Node.js • Tailwind • HTML • CSS |
+| **AI & Data** | LangChain • FAISS • PostgreSQL • MySQL • MongoDB • scikit-learn • Pandas • NumPy |
+| **Frameworks** | ROS2 • OpenCV • PCL |
+| **Tools** | Git • Docker • VS Code • GitLab CI/CD |
 
 ---
 
-### 🏅 Highlights
+### 🏅 Highlights  
 
 - 🏆 **Dean’s List** — *Fall 2023 & Spring 2024*  
-- 🎓 **AI For Everyone** — Certified by *DeepLearning.AI*  
-- 💼 **Internships:**  
-  - **HCLTech** — Built GenAI workflows & a self-healing backend using vector databases and LLM agents.  
-  - **Elevatoz Loyalty** — Data analytics intern using SQL and ML models for predictive insights.  
-- 🤝 Collaborated across international teams (USA, India, Germany) and research labs.  
+- 💼 **Intern — HCLTech** → Built GenAI pipelines with **dual vector databases**, **RAG**, and **self-healing error intelligence**.  
+- 🌍 **Global collaboration** across research labs and product teams in **USA, India, and Germany**.  
+- 📘 Certified: **AI For Everyone – DeepLearning.AI**  
 
 ---
 
-### 🧭 Connect With Me
+### 🌐 Let’s Connect  
 
 📍 *State College, PA*  
 📧 [siddhantamohanty22@gmail.com](mailto:siddhantamohanty22@gmail.com)  
@@ -64,4 +62,4 @@ Contributing to the **Perception Team**: developing **object detection, road mar
 
 ---
 
-> _“True growth begins when you step out of your comfort zone and take risks—even small ones.”_
+> _“Growth happens when curiosity meets execution — and you dare to build what doesn’t yet exist.”_
