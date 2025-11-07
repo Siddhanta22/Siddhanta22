@@ -49,7 +49,6 @@ Member of Penn State’s **AVT Perception Team**, developing **object detection,
 
 - 🏆 **Dean’s List** — *Fall 2023 & Spring 2024*  
 - 💼 **Intern — HCLTech** → Built GenAI pipelines with **dual vector databases**, **RAG**, and **self-healing error intelligence**.  
-- 🌍 **Global collaboration** across research labs and product teams in **USA, India, and Germany**.  
 - 📘 Certified: **AI For Everyone – DeepLearning.AI**  
 
 ---
