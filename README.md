@@ -17,20 +17,19 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌟 About Me  
 🎓 **Senior at Penn State University** — *B.S. Computer Science, Minor in Mathematics (Aug 2022 – May 2026)*  
 🧠 AI-focused backend engineer building **reliable, production-grade systems**—from **autonomous vehicle perception pipelines** to **self-healing AI platforms**.  
-⚙️ Skilled in **RAG architectures**, **LLMs**, **vector databases**, and **agent-driven backends** that prioritize correctness, observability, and recovery.  
+⚙️ Strong experience with **RAG architectures**, **LLMs**, **vector databases**, and **agent-driven backends** that emphasize correctness, observability, and failure recovery.  
 🔬 Previously worked on **reinforcement learning for multi-stage LLM verification pipelines**.  
 📍 *State College, PA*
 
 ---
 
 ### 🔭 Focus Areas  
-- **Agentic backends** with safety, observability, and failure recovery  
+- **Agentic backends** with safety, observability, and recovery guarantees  
 - **RAG + vector search** for high-precision, explainable retrieval  
 - **Autonomous systems** perception pipelines in ROS2  
 - **Evaluation tooling** for LLM reliability and self-correction
@@ -42,7 +41,7 @@
 - **Model Context Protocol (MCP)** — Protocol enabling LLMs to autonomously execute multi-step workflows across APIs, file systems, and databases with tool orchestration and failure recovery.  
 - **Prompt Tracer** — Browser-based observability tool that tracks, evaluates, and optimizes prompts across ChatGPT, Claude, Grok, and Gemini with real-time scoring and feedback.  
 - **Swipeflix** — Interactive movie/TV recommender that learns user preferences via quiz profiling and swipe feedback, improving predictions with TensorFlow.js.  
-- **Real-Time Collision Detection Engine** — Spatial hashing for broad-phase collision detection in JavaScript, removing ~98% of unnecessary pair tests and achieving up to 50× speedups vs brute force.
+- **Real-Time Collision Detection Engine** — Spatial hashing for broad-phase collision detection in JavaScript, removing ~98% of unnecessary pair tests and achieving up to **50× speedups** versus brute force.
 
 ---
 
@@ -60,9 +59,19 @@
 ---
 
 ### 💼 Experience  
-- **HCLTech – GenAI Intern** *(May 2025 – Aug 2025)*: Built an agentic self-healing backend (Flask + LangChain + FAISS) reducing resolution time by ~50%; implemented a 7-category error classifier with severity-based Slack alerts and chatbot-assisted triage; automated multi-API workflows via MCP and integrated Confluence ingestion for contextual retrieval.  
-- **Research Assistant – Reinforcement Learning for LLMs** *(Sep 2024 – Dec 2025)*: Designed RL-driven multi-stage LLM verification pipelines for iterative refinement; integrated compiler verification tooling (Klee, CodeQL) for automated validation and self-correction.  
-- **Penn State Advanced Vehicle Team (AVT) – Perception Member** *(Feb 2025 – Dec 2025)*: Improved perception accuracy with Kalman and particle filtering for traffic signs, lanes, and obstacles; debugged LiDAR–camera overlays and validated modules in simulation.
+
+- **HCLTech — GenAI Intern** *(May 2025 – Aug 2025)*  
+  Designed and built an **agentic self-healing backend** (Flask, LangChain, FAISS) reducing issue resolution time by ~50%.  
+  Implemented a **7-category error classifier** with severity-based Slack alerts and chatbot-assisted triage.  
+  Automated multi-API workflows via MCP and integrated Confluence ingestion for contextual document retrieval.
+
+- **Research Assistant — Reinforcement Learning for LLMs** *(Sep 2024 – Dec 2025)*  
+  Designed RL-driven multi-stage LLM verification pipelines for iterative refinement.  
+  Integrated compiler verification tooling (Klee, CodeQL) for automated validation and self-correction of generated code.
+
+- **Penn State Advanced Vehicle Team (AVT) — Perception Member** *(Feb 2025 – Dec 2025)*  
+  Improved perception accuracy using Kalman and particle filtering for traffic signs, lanes, and obstacles in ROS2 pipelines.  
+  Debugged LiDAR–camera overlays and validated perception modules in simulation.
 
 ---
 
