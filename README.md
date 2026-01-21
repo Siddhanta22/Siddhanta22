@@ -20,24 +20,24 @@
 ---
 
 ### 🌟 About Me  
-🎓 **Senior at Penn State University** — *B.S. Computer Science, Minor in Mathematics*  
-🧠 Experienced **AI engineer and backend developer** building production-ready systems — from **autonomous vehicle perception** to **enterprise-scale AI assistants**.  
-⚙️ Skilled in **RAG architectures**, **LLMs**, **vector databases**, and **agentic backend design** that bridges intelligence with reliability.  
-🔬 Currently exploring **reinforcement learning for multi-stage LLM pipelines** and **real-time AI-powered error recovery systems**.
+🎓 **Senior at Penn State University** — *B.S. Computer Science, Minor in Mathematics (Aug 2022 – May 2026)*  
+🧠 AI-focused backend engineer building **reliable, production-grade systems**—from **autonomous vehicle perception pipelines** to **self-healing AI platforms**.  
+⚙️ Skilled in **RAG architectures**, **LLMs**, **vector databases**, and **agent-driven backends** that prioritize correctness, observability, and recovery.  
+🔬 Previously worked on **reinforcement learning for multi-stage LLM verification pipelines**.
 
 ---
 
 ### 🧩 Featured Projects  
 
-- **Self-Healing System** — Built an AI-driven backend using GPT-4o, LangChain, and FAISS that captures and embeds error contexts, retrieves similar incidents, and suggests automated fixes with severity-aware Slack alerts and a chatbot interface.
+- **Self-Heal System** — Built an AI-driven backend using Flask, LangChain, and FAISS that captures error contexts, retrieves similar incidents, and recommends fixes with severity-aware Slack alerts and a chatbot interface.
 
-- **Model Context Protocol (MCP)** — Designed a protocol enabling LLMs to autonomously execute multi-step workflows across APIs, file systems, and databases — a core building block for agentic reasoning and task automation.
+- **Model Context Protocol (MCP)** — Designed a protocol enabling LLMs to autonomously execute multi-step workflows across APIs, file systems, and databases—supporting tool orchestration and failure recovery.
 
 - **Prompt Tracer** — Browser-based observability tool that tracks, evaluates, and optimizes prompts across ChatGPT, Claude, Grok, and Gemini with real-time scoring and feedback.
 
 - **Swipeflix** — Interactive movie/TV recommender that learns user preferences through quiz-based profiling and swipe feedback, improving prediction accuracy with TensorFlow.js.
 
-- **Advanced Vehicle Team (AVT)** — Perception engineer developing LiDAR-camera fusion, traffic-sign filtering, and dynamic obstacle tracking in ROS2 pipelines using Python, C++, OpenCV, and PCL.
+- **Real-Time Collision Detection Engine** — Implemented spatial hashing for broad-phase collision detection in JavaScript, eliminating ~98% of unnecessary pair tests and achieving up to 50× faster performance than brute force (with identical collision output).
 
 ---
 
@@ -45,11 +45,11 @@
 
 | Category | Tools |
 |-----------|--------|
-| **Languages** | Python • C++ • JavaScript |
-| **Web** | React • Node.js • Tailwind • Flask • HTML • CSS |
+| **Languages** | Python • C++ • JavaScript • TypeScript • SQL |
+| **Web** | React • Node.js • Tailwind • Flask • FastAPI • HTML • CSS |
 | **AI & ML** | LangChain • FAISS • RAG • LLMs • TensorFlow • NumPy • scikit-learn |
 | **Databases** | PostgreSQL • MySQL • MongoDB |
-| **Frameworks** | ROS2 • OpenCV • PCL |
+| **Systems** | ROS2 • OpenCV • PCL |
 | **Tools** | Git • Docker • VS Code • Streamlit • Postman • GitLab CI/CD |
 
 ---
@@ -57,19 +57,22 @@
 ### 💼 Experience  
 
 - **HCLTech – GenAI Intern** *(May 2025 – Aug 2025)*  
-  Developed an **agentic self-healing backend** (Flask + LangChain + FAISS) reducing resolution time by 50%.  
-  Built a **Model Context Protocol (MCP)** to automate complex multi-API workflows and integrated Confluence ingestion pipelines for contextual document retrieval.
+  Developed an **agentic self-healing backend** (Flask + LangChain + FAISS) reducing resolution time by ~50%.  
+  Built a **7-category error classifier** with severity-based Slack alerts and chatbot-assisted triage.  
+  Automated multi-API workflows via MCP and integrated Confluence ingestion for contextual document retrieval.
 
-- **Penn State Advanced Vehicle Team – Perception Member** *(Feb 2025 – Present)*  
-  Implementing filtering algorithms and debugging ROS2 perception modules for improved detection accuracy and LiDAR-camera overlay precision.
+- **Research Assistant – Reinforcement Learning for LLMs** *(Sep 2024 – Dec 2025)*  
+  Designed an RL-driven framework for multi-stage LLM pipelines to improve code verification via iterative refinement.  
+  Integrated compiler verification tooling (Klee, CodeQL) for automated validation and self-correction.
 
-- **Research Assistant – Reinforcement Learning for LLMs** *(Sep 2025 – Present)*  
-  Designing an **RL layer** for multi-stage LLM systems that uses feedback loops to refine code and content verification pipelines.
+- **Penn State Advanced Vehicle Team (AVT) – Perception Member** *(Feb 2025 – Dec 2025)*  
+  Optimized perception accuracy using Kalman and particle filtering for traffic signs, lane markings, and obstacles in ROS2 pipelines.  
+  Debugged LiDAR–camera overlays and validated modules in simulation.
 
 ---
 
 ### 🏅 Achievements  
-- 🏆 **Dean’s List** — Fall 2023 & Spring 2024  
+- 🏆 **Dean’s List** — Fall 2023, Spring 2024, Fall 2025  
 - 🎓 **Certified:** *AI For Everyone* – DeepLearning.AI  
 - 🤝 Collaborated with cross-disciplinary research and engineering teams across **USA, India, and Germany**
 
