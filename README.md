@@ -74,8 +74,7 @@
 ### 🏅 Achievements  
 - 🏆 **Dean’s List** — Fall 2023, Spring 2024, Fall 2025  
 - 🎓 **Certified:** *AI For Everyone* – DeepLearning.AI  
-- 🤝 Collaborated with cross-disciplinary research and engineering teams across **USA, India, and Germany**
-
+- 🤝 Collaborated with cross-disciplinary research and engineering teams 
 ---
 
 ### 🌐 Connect  
