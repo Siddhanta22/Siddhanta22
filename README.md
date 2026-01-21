@@ -17,11 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/siddhanta-mohanty-13aa92222">LinkedIn</a> •
-  <a href="https://siddhanta22.github.io/siddhantamohanty.github.io/">Portfolio</a> •
-  <a href="mailto:siddhantamohanty22@gmail.com">Email</a>
-</p>
 
 ---
 
