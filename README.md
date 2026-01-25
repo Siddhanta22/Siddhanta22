@@ -27,8 +27,6 @@ I build **production-grade AI backends and scalable software systems** that solv
 
 Deep experience with **distributed systems, RAG architectures, LLMs, vector databases**, and **backend infrastructure** backed by reinforcement learning research and hands-on data analytics work.
 
-### 🔨 Currently Building
-> Exploring **multi-agent orchestration** for autonomous code review, building **evaluation frameworks** for LLM reliability, and designing **high-performance backends** for agentic systems that scale.
 
 ---
 
