@@ -76,6 +76,6 @@
 
 <br/>
 
-*"Build systems that don’t just work — build systems that understand when they don’t."*
+*"Growth happens when curiosity meets execution — and you dare to build what doesn’t yet exist."*
 
 </div>
