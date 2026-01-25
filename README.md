@@ -23,12 +23,12 @@ location: "State College, PA"
 status: "Senior Year"
 ```
 
-I build **production-grade AI backends** that don't just execute—they self-correct, explain their reasoning, and recover from failures gracefully. From **autonomous vehicle perception pipelines** to **self-healing platforms** that learn from their own errors, I focus on systems that are reliable, observable, and continuously improving.
+I build **production-grade AI backends and scalable software systems** that solve real problems. From **autonomous vehicle perception pipelines** to **agentic platforms** powered by LLMs and **data engineering pipelines** processing large-scale datasets, I focus on systems that are reliable, performant, and built to scale.
 
-Deep experience with **RAG architectures, LLMs, vector databases**, and **agent-driven workflows** backed by reinforcement learning research.
+Deep experience with **distributed systems, RAG architectures, LLMs, vector databases**, and **backend infrastructure** backed by reinforcement learning research and hands-on data analytics work.
 
 ### 🔨 Currently Building
-> Exploring **multi-agent orchestration** for autonomous code review and designing evaluation frameworks for LLM self-correction pipelines.
+> Exploring **multi-agent orchestration** for autonomous code review, building **evaluation frameworks** for LLM reliability, and designing **high-performance backends** for agentic systems that scale.
 
 ---
 
@@ -68,6 +68,16 @@ Deep experience with **RAG architectures, LLMs, vector databases**, and **agent-
 </ul>
 </td>
 </tr>
+<tr>
+<td><b>Elevatoz Loyalty</b><br/><i>Data Analytics Intern</i></td>
+<td>
+<b>June 2024 – Aug 2024</b>
+<ul>
+<li>Analyzed large-scale datasets using <b>SQL and Python</b> (pandas, NumPy) for business intelligence</li>
+<li>Automated ETL workflows reducing processing time by 40%</li>
+</ul>
+</td>
+</tr>
 </table>
 
 ---
@@ -99,6 +109,12 @@ Interactive movie/TV recommender that learns user preferences through quiz profi
 </details>
 
 <details>
+<summary><b>📸 Photobot</b></summary>
+<br/>
+AI photography assistant using RAG and LangChain for DSLR configuration recommendations, reducing decision time by 60%.
+</details>
+
+<details>
 <summary><b>⚡ Real-Time Collision Detection Engine</b></summary>
 <br/>
 Spatial hashing engine for JavaScript that removes ~98% of unnecessary collision tests, achieving <b>50× speedups</b> over brute force.
@@ -120,25 +136,38 @@ Spatial hashing engine for JavaScript that removes ~98% of unnecessary collision
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ### Autonomous Systems
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-0078D4?style=flat-square)
 
 ### Web & Tooling
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### Data Engineering
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
