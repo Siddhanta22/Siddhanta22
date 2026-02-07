@@ -1,5 +1,6 @@
-# 👋 Hey there, I'm Siddhanta 
-### 🚀 AI • Backend • Autonomous Systems | Senior @ Penn State University
+# Siddhanta Mohanty
+
+AI • Backend • Autonomous Systems | Senior @ Penn State University
 
 <p align="center">
   <a href="mailto:siddhantamohanty22@gmail.com">
@@ -18,90 +19,69 @@
 
 ---
 
-## 🌟 About Me
+## What I Build
 
-🎓 **Senior at Penn State University** — *B.S. Computer Science, Minor in Mathematics (Aug 2022 – May 2026)*  
+I build AI-native backend systems that are reliable, observable, and capable of recovering from failure.
 
-🧠 AI-focused backend engineer building **reliable, production-grade systems**—from **autonomous vehicle perception pipelines** to **self-healing AI platforms**.  
-
-⚙️ Strong experience with **RAG architectures**, **LLMs**, **vector databases**, and **agent-driven backends** that emphasize correctness, observability, and failure recovery.  
-
-🔬 Previously worked on **reinforcement learning for multi-stage LLM verification pipelines**.  
-
-📰 Creator of **YourAIbrief** — a curated AI newsletter synthesizing insights from 50+ sources into practical, digestible updates for builders.  
-
-📍 *State College, PA*
+My work sits at the intersection of agentic AI systems, RAG architectures, autonomous perception pipelines, and evaluation tooling for LLM reliability. I am particularly interested in building systems that do not just produce outputs, but understand, verify, and improve their own behavior over time.
 
 ---
 
-## 🔭 Focus Areas
+## Selected Projects
 
-- **Agentic backends** with safety, observability, and recovery guarantees  
-- **RAG + vector search** for high-precision, explainable retrieval  
-- **Autonomous systems** perception pipelines in ROS2  
-- **Evaluation tooling** for LLM reliability and self-correction  
+### Self-Heal System
+An AI backend that captures runtime errors, retrieves similar past incidents from a vector database, and recommends fixes with severity-aware Slack alerts and a chatbot triage interface.
 
----
+### Model Context Protocol (MCP)
+A protocol that enables LLMs to execute multi-step workflows across APIs, files, and databases with tool orchestration and failure recovery.
 
-## 🧩 Featured Projects
+### Prompt Tracer
+A browser-based observability tool that tracks and evaluates prompts across multiple LLM platforms with real-time scoring and feedback.
 
-### **Self-Heal System**
-AI-driven backend (Flask, LangChain, FAISS) that captures error context, retrieves similar incidents, and recommends fixes with severity-aware Slack alerts and a chatbot interface.
+### Swipeflix
+A movie and TV recommender that learns user preferences through quiz profiling and swipe feedback using TensorFlow.js.
 
-### **Model Context Protocol (MCP)**
-Protocol enabling LLMs to autonomously execute multi-step workflows across APIs, file systems, and databases with tool orchestration and failure recovery.
-
-### **Prompt Tracer**
-Browser-based observability tool that tracks, evaluates, and optimizes prompts across ChatGPT, Claude, Grok, and Gemini with real-time scoring and feedback.
-
-### **Swipeflix**
-Interactive movie/TV recommender that learns user preferences via quiz profiling and swipe feedback, improving predictions with TensorFlow.js.
-
-### **Real-Time Collision Detection Engine**
-Spatial hashing for broad-phase collision detection in JavaScript, removing ~98% of unnecessary pair tests and achieving up to **50× speedups** versus brute force.
+### Real-Time Collision Detection Engine
+A spatial hashing engine in JavaScript that removes most unnecessary collision checks and achieves significant speedups over brute force approaches.
 
 ---
 
-## 💻 Tech Stack
+## Technologies
 
-| Category | Tools |
-|-----------|--------|
-| **Languages** | Python • C++ • JavaScript • TypeScript • SQL |
-| **Web** | React • Node.js • Tailwind • Flask • FastAPI • HTML • CSS |
-| **AI & ML** | LangChain • FAISS • RAG • LLMs • TensorFlow • NumPy • scikit-learn |
-| **Databases** | PostgreSQL • MySQL • MongoDB |
-| **Systems** | ROS2 • OpenCV • PCL |
-| **Tools** | Git • Docker • VS Code • Streamlit • Postman • GitLab CI/CD |
+**Languages**  
+Python, C++, JavaScript, TypeScript, SQL
 
----
+**Web and Backend**  
+React, Node.js, Flask, FastAPI, Tailwind, REST APIs
 
-## 💼 Experience
+**AI and ML**  
+LangChain, FAISS, RAG, LLMs, TensorFlow, NumPy, scikit-learn
 
-### **HCLTech — GenAI Intern** *(May 2025 – Aug 2025)*
-Designed and built an **agentic self-healing backend** (Flask, LangChain, FAISS) reducing issue resolution time by ~50%. Implemented a **7-category error classifier** with severity-based Slack alerts and chatbot-assisted triage. Automated multi-API workflows via MCP and integrated Confluence ingestion for contextual document retrieval.
+**Databases**  
+PostgreSQL, MongoDB, MySQL, vector databases
 
-### **Research Assistant — Reinforcement Learning for LLMs** *(Sep 2024 – Dec 2025)*
-Designed RL-driven multi-stage LLM verification pipelines for iterative refinement. Integrated compiler verification tooling (Klee, CodeQL) for automated validation and self-correction of generated code.
-
-### **Penn State Advanced Vehicle Team (AVT) — Perception Member** *(Feb 2025 – Dec 2025)*
-Improved perception accuracy using Kalman and particle filtering for traffic signs, lanes, and obstacles in ROS2 pipelines. Debugged LiDAR–camera overlays and validated perception modules in simulation.
+**Systems**  
+ROS2, OpenCV, PCL, Docker, GitLab CI/CD
 
 ---
 
-## 🏅 Achievements
+## Experience
 
-- 🏆 **Dean’s List** — Fall 2023, Spring 2024, Fall 2025  
-- 🎓 **Certified:** *AI For Everyone* – DeepLearning.AI  
-- 🤝 Collaborated with cross-disciplinary research and engineering teams  
+**GenAI Intern — HCLTech (Summer 2025)**  
+Built an agentic self-healing backend that reduced issue resolution time by about 50 percent. Designed error classifiers, Slack triage bots, and MCP workflows with document ingestion.
 
----
+**Research Assistant — Reinforcement Learning for LLM Verification**  
+Worked on reinforcement learning pipelines for multi-stage LLM code verification using Klee and CodeQL.
 
-## 🌐 Connect
-
-📧 [siddhantamohanty22@gmail.com](mailto:siddhantamohanty22@gmail.com)  
-🔗 [LinkedIn →](https://linkedin.com/in/siddhanta-mohanty-13aa92222)  
-💻 [Portfolio →](https://siddhanta22.github.io/siddhantamohanty.github.io/)
+**Perception Member — Penn State Advanced Vehicle Team**  
+Improved traffic sign, lane, and obstacle detection using filtering techniques in ROS2 perception pipelines. Debugged LiDAR and camera overlays in simulation.
 
 ---
 
-> _“Growth happens when curiosity meets execution — and you dare to build what doesn’t yet exist.”_
+## Interests
+
+I am currently exploring agentic backends with reliability guarantees, evaluation frameworks for LLM correctness, and systems that can explain why they fail and recover from those failures.
+
+---
+
+Growth happens when curiosity meets execution.
