@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Siddhanta Mohanty
+# 👋 Hey there, I'm Siddhanta 
 ### 🚀 AI • Backend • Autonomous Systems | Senior @ Penn State University
 
 <p align="center">
