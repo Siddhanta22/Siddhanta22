@@ -80,7 +80,9 @@ Improved traffic sign, lane, and obstacle detection using filtering techniques i
 
 ## Interests
 
-I am currently exploring agentic backends with reliability guarantees, evaluation frameworks for LLM correctness, and systems that can explain why they fail and recover from those failures.
+I am interested in building user-centric software that creates real impact at the intersection of software engineering, AI, and backend systems. I enjoy working on problems that require designing reliable distributed services, intelligent data pipelines, and practical AI integrations that improve how people interact with technology.
+
+My current interests include scalable backend architecture, applied AI systems, autonomous and perception-driven applications, developer tooling, and evaluation frameworks that make complex systems more trustworthy, observable, and easier to maintain.
 
 ---
 
