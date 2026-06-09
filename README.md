@@ -1,6 +1,8 @@
 # Siddhanta Mohanty
 
-AI • Backend • Autonomous Systems | Senior @ Penn State University
+**Software Engineer | Applied AI | Backend Systems**
+
+Recent Computer Science graduate from Penn State University with experience building AI-powered backend systems, agentic workflows, retrieval systems, and autonomous perception pipelines. I enjoy solving practical engineering problems where software, data, and AI come together to create real user impact.
 
 <p align="center">
   <a href="mailto:siddhantamohanty22@gmail.com">
@@ -19,71 +21,111 @@ AI • Backend • Autonomous Systems | Senior @ Penn State University
 
 ---
 
-## What I Build
+## About Me
 
-I build AI-native backend systems that are reliable, observable, and capable of recovering from failure.
+I recently graduated from Penn State University with a degree in Computer Science and a minor in Mathematics.
 
-My work sits at the intersection of agentic AI systems, RAG architectures, autonomous perception pipelines, and evaluation tooling for LLM reliability. I am particularly interested in building systems that do not just produce outputs, but understand, verify, and improve their own behavior over time.
+My interests span backend engineering, applied AI, developer tooling, and autonomous systems. I enjoy building products that automate workflows, improve reliability, and help users solve real problems. Most of my recent work has focused on LLM-powered applications, retrieval systems, agent orchestration, and scalable backend services.
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Self-Heal System
-An AI backend that captures runtime errors, retrieves similar past incidents from a vector database, and recommends fixes with severity-aware Slack alerts and a chatbot triage interface.
+### Self-Healing Database Backend
 
-### Model Context Protocol (MCP)
-A protocol that enables LLMs to execute multi-step workflows across APIs, files, and databases with tool orchestration and failure recovery.
+Built during my internship at HCLTech, this system automatically analyzes database failures, retrieves similar historical incidents using vector search, and recommends remediation steps through an AI-powered workflow.
+
+**Highlights**
+- Reduced support resolution time by ~50%
+- Built with Python, Flask, PostgreSQL, LangChain, FAISS, and OpenAI
+- Integrated Slack alerting and chatbot-assisted incident triage
+- Implemented similarity search across historical error logs
+
+### Confluence RAG + MCP Assistant
+
+Developed an internal knowledge assistant that combines retrieval-augmented generation with Model Context Protocol workflows to answer questions and automate multi-step actions across documentation systems.
+
+**Highlights**
+- Ingested and indexed enterprise Confluence documentation
+- Built semantic search using embeddings and FAISS
+- Enabled tool-driven workflows through MCP integrations
+- Reduced manual knowledge lookup and troubleshooting effort
 
 ### Prompt Tracer
-A browser-based observability tool that tracks and evaluates prompts across multiple LLM platforms with real-time scoring and feedback.
 
-### Swipeflix
-A movie and TV recommender that learns user preferences through quiz profiling and swipe feedback using TensorFlow.js.
+A browser-based observability tool for analyzing prompts across multiple LLM platforms.
 
-### Real-Time Collision Detection Engine
-A spatial hashing engine in JavaScript that removes most unnecessary collision checks and achieves significant speedups over brute force approaches.
+**Highlights**
+- Tracks prompt quality and structure
+- Evaluates clarity, context, specificity, and intent
+- Provides real-time scoring and actionable feedback
+- Designed for developers iterating on prompt engineering workflows
 
----
+### Penn State Advanced Vehicle Team
 
-## Technologies
+Worked on perception systems for autonomous vehicles as part of Penn State's Advanced Vehicle Team.
 
-**Languages**  
-Python, C++, JavaScript, TypeScript, SQL
-
-**Web and Backend**  
-React, Node.js, Flask, FastAPI, Tailwind, REST APIs
-
-**AI and ML**  
-LangChain, FAISS, RAG, LLMs, TensorFlow, NumPy, scikit-learn
-
-**Databases**  
-PostgreSQL, MongoDB, MySQL, vector databases
-
-**Systems**  
-ROS2, OpenCV, PCL, Docker, GitLab CI/CD
+**Highlights**
+- Built ROS2-based perception pipelines
+- Filtered traffic sign detections using confidence and distance thresholds
+- Worked with LiDAR, camera data, and ROS bag analysis
+- Debugged sensor fusion and visualization workflows
 
 ---
 
 ## Experience
 
-**GenAI Intern — HCLTech (Summer 2025)**  
-Built an agentic self-healing backend that reduced issue resolution time by about 50 percent. Designed error classifiers, Slack triage bots, and MCP workflows with document ingestion.
+### Generative AI Intern | HCLTech  
+**May 2025 – July 2025**
 
-**Research Assistant — Reinforcement Learning for LLM Verification**  
-Worked on reinforcement learning pipelines for multi-stage LLM code verification using Klee and CodeQL.
+- Built an agentic AI system that reduced support resolution time by approximately 50%
+- Developed retrieval pipelines using enterprise documentation and historical incidents
+- Created Slack-integrated workflows for alerting and remediation
+- Designed backend services using Python, PostgreSQL, Flask, LangChain, and FAISS
 
-**Perception Member — Penn State Advanced Vehicle Team**  
-Improved traffic sign, lane, and obstacle detection using filtering techniques in ROS2 perception pipelines. Debugged LiDAR and camera overlays in simulation.
+### Research Assistant | Penn State University  
+**LLM Reliability & Verification Research**
+
+- Developed reinforcement learning workflows for LLM-generated code validation
+- Integrated CodeQL, KLEE, and compiler-based analysis into evaluation pipelines
+- Explored reward mechanisms for improving code correctness and security
+
+### Perception Engineer | Penn State Advanced Vehicle Team
+
+- Contributed to autonomous vehicle perception and detection systems
+- Worked with ROS2, sensor data processing, and simulation environments
+- Improved filtering and validation of traffic sign detections
 
 ---
 
-## Interests
+## Tech Stack
 
-I am interested in building user-centric software that creates real impact at the intersection of software engineering, AI, and backend systems. I enjoy working on problems that require designing reliable distributed services, intelligent data pipelines, and practical AI integrations that improve how people interact with technology.
+### Languages
+Python • C++ • JavaScript • TypeScript • SQL
 
-My current interests include scalable backend architecture, applied AI systems, autonomous and perception-driven applications, developer tooling, and evaluation frameworks that make complex systems more trustworthy, observable, and easier to maintain.
+### Backend
+Flask • FastAPI • REST APIs • PostgreSQL • MongoDB • MySQL
+
+### AI & Data
+LangChain • RAG • FAISS • OpenAI APIs • TensorFlow • scikit-learn • NumPy
+
+### Systems & Tools
+Linux • Docker • ROS2 • Git • GitHub Actions • OpenCV
+
+### Frontend
+React • Tailwind CSS • Vite
 
 ---
 
-Growth happens when curiosity meets execution.
+## Currently Interested In
+
+- Software Engineering
+- Backend Infrastructure
+- Applied AI
+- Agentic Systems
+- Developer Tools
+- Autonomous Systems
+
+---
+
+*"Build things that solve real problems, measure their impact, and keep improving them."*
